@@ -1,0 +1,5 @@
+com\todocodeacademy\model\JwtGeneration.class
+com\todocodeacademy\model\Person.class
+com\todocodeacademy\model\Token.class
+com\todocodeacademy\model\JsonPerson.class
+com\todocodeacademy\model\Login.class
